@@ -11,7 +11,7 @@ essentially provides a ThreadLocal implementation for Go's goroutines. Version
 
 See [example/main.go](example/main.go) for a simple example on how to use.
 
-> **Important**
+> [!CAUTION]
 > 
 > Be sure to check out the [support grid][support-grid] before you take it in use.
 
