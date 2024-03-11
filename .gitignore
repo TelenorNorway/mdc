@@ -5,4 +5,4 @@
 !/**/
 !/**/*.go
 !/go.mod
-!/go.work
+!/go.sum
