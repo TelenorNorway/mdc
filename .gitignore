@@ -4,5 +4,6 @@
 !/.idea/**/*
 !/**/
 !/**/*.go
+!/README.md
 !/go.mod
 !/go.sum
